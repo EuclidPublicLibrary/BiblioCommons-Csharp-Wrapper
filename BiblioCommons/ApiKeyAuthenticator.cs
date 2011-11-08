@@ -2,6 +2,9 @@
 
 namespace BiblioCommons
 {
+    /// <summary>
+    /// Adds the ApiKey to all BiblioCommons API requests.
+    /// </summary>
     internal class ApiKeyAuthenticator : IAuthenticator
     {
         private string _apiKey;
