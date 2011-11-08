@@ -1,0 +1,1 @@
+﻿{"error": {"message": "No list 'NonExistentLibraryId' found.", "request": "/lists/NonExistentLibraryId?libraryId=euclidlibrary\u0026api_Key=TestApiKey"}}
