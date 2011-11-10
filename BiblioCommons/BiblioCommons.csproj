@@ -96,8 +96,10 @@
     <Compile Include="Exceptions\RestException.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Includes\Newtonsoft.Json.License.txt" />
     <Content Include="Includes\Newtonsoft.Json.dll" />
     <Content Include="Includes\RestSharp.dll" />
+    <Content Include="Includes\RestSharp.License..txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
