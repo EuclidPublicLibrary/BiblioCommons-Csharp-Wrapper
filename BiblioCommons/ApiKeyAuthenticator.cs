@@ -1,4 +1,8 @@
-﻿using RestSharp;
+﻿#region License
+// Copyright (c) 2011 Euclid Public Library
+#endregion
+
+using RestSharp;
 
 namespace BiblioCommons
 {
